@@ -52,7 +52,6 @@
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="/Genel/hakkimizda.aspx">Hakkımızda</a></li>
-                        <%--<li><a runat="server" href="/Genel/duyurular.aspx">Duyurular</a></li>--%>
                         <li class="dropdown">
                             <a href="#" data-toggle="dropdown" class="dropdown-toggle">Duyurular<label class="caret"></label></a>
 

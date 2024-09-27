@@ -152,6 +152,6 @@ C:\Users\DELL\Desktop\Serhat_Kamilcelebi_170106109047_Staj\ASPNETSirketOtomasyon
 C:\Users\DELL\Desktop\Serhat_Kamilcelebi_170106109047_Staj\ASPNETSirketOtomasyonu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\DELL\Desktop\Serhat_Kamilcelebi_170106109047_Staj\ASPNETSirketOtomasyonu\obj\Debug\ASPNETSirketOtomasyonu.csproj.AssemblyReference.cache
 C:\Users\DELL\Desktop\Serhat_Kamilcelebi_170106109047_Staj\ASPNETSirketOtomasyonu\obj\Debug\ASPNETSirketOtomasyonu.csproj.CoreCompileInputs.cache
-C:\Users\DELL\Desktop\Serhat_Kamilcelebi_170106109047_Staj\ASPNETSirketOtomasyonu\obj\Debug\ASPNETSirketOtomasyonu.csproj.CopyComplete
 C:\Users\DELL\Desktop\Serhat_Kamilcelebi_170106109047_Staj\ASPNETSirketOtomasyonu\obj\Debug\ASPNETSirketOtomasyonu.dll
 C:\Users\DELL\Desktop\Serhat_Kamilcelebi_170106109047_Staj\ASPNETSirketOtomasyonu\obj\Debug\ASPNETSirketOtomasyonu.pdb
+C:\Users\DELL\Desktop\Serhat_Kamilcelebi_170106109047_Staj\ASPNETSirketOtomasyonu\obj\Debug\ASPNETSi.F1D62471.Up2Date
